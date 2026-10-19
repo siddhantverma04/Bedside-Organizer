@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 4.46h | 6 |
+| Week 2 | Tier 1 | 4.66h | 6 |
 
 ## Contents
 
@@ -78,7 +78,7 @@ Began work on my bigger drawer. I also had too change a bunch of measurements an
 
 ### 2026-10-18 – # Began to add some art on the drawer base
 
-**0.52h**
+**0.72h**
 
 # Began to add some art on the drawer base
 For now I am pretty much done with the main structure of the organizer so I began to add some things to make it more personalized for me.
