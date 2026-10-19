@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 5.35h | 6 |
+| Week 2 | Tier 1 | 4.46h | 6 |
 
 ## Contents
 
@@ -57,14 +57,12 @@ Started to work on my drawers. So far I just started to work on the smaller draw
 
 ### 2026-10-17 – # Done with the smaller drawers!
 
-**1.37h**
+**0.48h**
 
 # Done with the smaller drawers!
 Finished all of the smaller drawers now. I changed a lot of dimensions and then added a chamfer at the front, so that the drawers wont be able to go all the way back and will stop at the front. Next I need to work on the bigger drawer.
 
 ![Screenshot 2026-10-17 201319](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/M96GTgRxgEfZX8S3GSflpKsY7xb57jJc/8a5b2d55f5f17077cd8d02e495649a2c10b11bd1eccff564356d19431755445b.png)
-
-[Timelapse](https://lookout.hackclub.com/api/media/e5bf4f24-821b-4d47-a239-dddd0160e08f/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/75048983-5a16-445c-87d6-028f9c07b716/video.mp4)
 
